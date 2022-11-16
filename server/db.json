@@ -1,0 +1,152 @@
+{
+    "suggest": [
+      {
+        "address": "219 NORMAN ST, BALLARAT NORTH VIC 3350",
+        "id": "GAVIC423834288",
+        "rank": 0
+      },
+      {
+        "address": "219 NORRING RD, WEDGECARRUP WA 6315",
+        "id": "GAWA_162256790",
+        "rank": 1
+      },
+      {
+        "address": "219 NORRIS RD, BRACKEN RIDGE QLD 4017",
+        "id": "GAQLD156304488",
+        "rank": 2
+      },
+      {
+        "address": "219 NORTHAM AV, BANKSTOWN NSW 2200",
+        "id": "GANSW704013582",
+        "rank": 3
+      },
+      {
+        "address": "219 NORTH BEACH DR, TUART HILL WA 6060",
+        "id": "GAWA_162412697",
+        "rank": 4
+      },
+      {
+        "address": "219 NORTHBOURNE AV, TURNER ACT 2612",
+        "id": "GAACT714884655",
+        "rank": 5
+      },
+      {
+        "address": "219 NORTHBOURNE RD, CAMPBELLFIELD VIC 3061",
+        "id": "GAVIC422416073",
+        "rank": 6
+      },
+      {
+        "address": "219 NORTHCLIFFE DR, BERKELEY NSW 2506",
+        "id": "GANSW704087051",
+        "rank": 7
+      },
+      {
+        "address": "219 NORTHCOTE AV, SWANSEA NSW 2281",
+        "id": "GANSW710262832",
+        "rank": 8
+      },
+      {
+        "address": "219 NORTH CURRAMORE RD, CURRAMORE NSW 2533",
+        "id": "GANSW704548627",
+        "rank": 9
+      },
+      {
+        "address": "219 NORTH DALLARNIL RD, DALLARNIL QLD 4621",
+        "id": "GAQLD160228211",
+        "rank": 10
+      },
+      {
+        "address": "219 NORTH EAST RD, HAMPSTEAD GARDENS SA 5086",
+        "id": "GASA_415842421",
+        "rank": 11
+      },
+      {
+        "address": "219 NORTH HARLEY ST, STRATHDALE VIC 3550",
+        "id": "GAVIC421604220",
+        "rank": 12
+      },
+      {
+        "address": "219 NORTH JINDONG RD, CARBUNUP RIVER WA 6280",
+        "id": "GAWA_162267446",
+        "rank": 13
+      },
+      {
+        "address": "219 NORTHLAKES DR, CAMERON PARK NSW 2285",
+        "id": "GANSW718381720",
+        "rank": 14
+      },
+      {
+        "address": "219 NORTH LIVERPOOL RD, BONNYRIGG NSW 2177",
+        "id": "GANSW704202249",
+        "rank": 15
+      },
+      {
+        "address": "219 NORTH RD, CAULFIELD SOUTH VIC 3162",
+        "id": "GAVIC419630800",
+        "rank": 16
+      },
+      {
+        "address": "219 NORTH RD, CENTENNIAL PARK WA 6330",
+        "id": "GAWA_147069898",
+        "rank": 17
+      },
+      {
+        "address": "219 NORTH RD, EASTWOOD NSW 2122",
+        "id": "GANSW704670138",
+        "rank": 18
+      },
+      {
+        "address": "219 NORTH RIVER RD, NORTH PLANTATIONS WA 6701",
+        "id": "GAWA_147041593",
+        "rank": 19
+      }
+    ],
+    "addressDetails": [
+        {
+            "type": "Feature",
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                149.14668176,
+                -35.32202098
+            ]
+            },
+            "properties": {
+            "addressId": "GAACT717940975",
+            "jurisdictionId": "3704312514F5ED2F9F",
+            "formattedAddress": "113 CANBERRA AV, GRIFFITH ACT 2603",
+            "addressRecordType": "PRIMARY",
+            "aliasPrincipal": "PRINCIPAL",
+            "geoFeature": "FRONTAGE CENTRE SETBACK",
+            "streetName": "CANBERRA",
+            "localityName": "GRIFFITH",
+            "localityAlias": [
+                "CANBERRA CENTRAL",
+                "KINGSTON",
+                "MANUKA"
+            ],
+            "localityNeighbour": [
+                "BARTON",
+                "FORREST",
+                "FYSHWICK",
+                "KINGSTON",
+                "NARRABUNDAH",
+                "RED HILL"
+            ],
+            "stateTerritory": "ACT",
+            "postcode": "2603",
+            "cadastralIdentifier": "CANB/GRIF/25/14/",
+            "streetNumber1": "113",
+            "streetType": "AV",
+            "streetTypeDescription": "AVENUE",
+            "localityId": "ACT220",
+            "streetLocalityId": "ACT1507",
+            "streetAlias": []
+            },
+            "messages": [],
+            "requestTimeStamp": "1661282561.241786,",
+            "requestDateTime": "2022-08-24T05:22:41.241977",
+            "attribution": "NOTICE All rights reserved. Use of this data is subject to the Geoscape Developer Terms and Conditions (https://developer.geoscape.com.au/legal). Data is subject to copyright (https://geoscape.com.au/legal/data-copyright-and-disclaimer/)"
+        }
+    ]
+  }
